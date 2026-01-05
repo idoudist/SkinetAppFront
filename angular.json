@@ -25,7 +25,8 @@
               }
             ],
             "styles": [
-              "public/styles/tailwind.css",
+              "src/material-theme.scss",
+              "src/styles-imports.css",
               "src/styles.scss"
             ]
           },
